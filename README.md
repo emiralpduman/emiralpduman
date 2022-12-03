@@ -9,5 +9,5 @@ I'm Emiralp 🙋🏻‍♂️
 - 🗄️ Firestore, Realm, CoreData
 
 ## Contact
-- [Linkedin](https://www.linkedin.com/in/emiralp-duman/)
+- [LinkedIn](https://www.linkedin.com/in/emiralp-duman/)
 - [Twitter](https://twitter.com/emiralpduman)
