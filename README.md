@@ -10,4 +10,3 @@ I'm Emiralp 🙋🏻‍♂️
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/emiralp-duman/)
-- [Twitter](https://twitter.com/emiralpduman)
